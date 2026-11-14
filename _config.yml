@@ -1,0 +1,17 @@
+title: Vidhisha Jain
+description: Writing on AI governance, regulation and policy
+url: "https://vidhishajain.github.io"
+author: Vidhisha Jain
+
+markdown: kramdown
+permalink: /:year/:month/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md
