@@ -3,6 +3,7 @@ description: Writing on AI governance, regulation and policy
 url: "https://vidhishajain.github.io"
 author: Vidhisha Jain
 
+timezone: Asia/Kolkata
 markdown: kramdown
 permalink: /:year/:month/:title/
 
