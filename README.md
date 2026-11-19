@@ -6,6 +6,7 @@ Short pieces where I take a position on an AI governance, regulation or policy q
 
 ## Posts
 
+- [What happens when an AI cheats on its safety test?](https://vidhishajain.github.io/2026/11/what-happens-when-an-ai-cheats-on-its-safety-test/) (November 2026)
 - [Who pays when an AI key is stolen?](https://vidhishajain.github.io/2026/11/who-pays-when-an-ai-key-is-stolen/) (November 2026)
 
 ## About this repo
